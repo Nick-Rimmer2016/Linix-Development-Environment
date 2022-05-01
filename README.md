@@ -8,9 +8,10 @@ Create a SSH key pair
 Upload public key to Linode `MyProfile\SSH Keys`   
 Create an [API token](https://www.linode.com/docs/guides/api-key/) for Linode, select Linodes only for Read\Write
 
+**Operating Systems**   
+Ubuntu v20.04   
 
 **Applications**   
-Ubuntu v20.04   
 PowerShell v7.xx   
 Python v3.xx   
 
