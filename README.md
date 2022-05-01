@@ -6,7 +6,7 @@ Create An Account with Linode:  https://www.linode.com/
 (Servers start at $5 a month !!)   
 Create a SSH key pair   
 Upload public key to Linode `MyProfile\SSH Keys`   
-Create an API token for Linode, select Linodes only for Read\Write   
+Create an [API token](https://www.linode.com/docs/guides/api-key/) for Linode, select Linodes only for Read\Write
 
 
 **Applications**   
