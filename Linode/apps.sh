@@ -1,7 +1,6 @@
 #!/bin/bash
 # 
 # This script is for deploying PowerShell and Python
-
 # Update the list of packages
 sudo apt-get update
 # Install pre-requisite packages.
@@ -14,6 +13,9 @@ sudo dpkg -i packages-microsoft-prod.deb
 sudo apt-get update
 # Install PowerShell
 sudo apt-get install -y powershell
-
-# Python
-sudo apt install python3
+# Deploy Project Folders And configure Git
+sudo mkdir \projects
+git config --global user.name "Nick Rimmer"
+git config --global user.email "nick.rimmer.2009@gmail.com"
+cd /Projects
+git clone https://github.com/Nick-Rimmer2016/Bash.git
