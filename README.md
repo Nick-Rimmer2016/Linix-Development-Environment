@@ -3,3 +3,5 @@ Build an Ubuntu Linux server with Powershell and configure Git, this project wil
 
 Ubuntu v20.04   
 PowerShell v7.xx   
+
+Create An Account with Linode:  https://cloud.linode.com/linodes   
