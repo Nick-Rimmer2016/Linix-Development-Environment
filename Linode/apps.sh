@@ -16,6 +16,7 @@ sudo apt-get install -y powershell
 # Deploy Project Folders And configure Git
 sudo mkdir \projects
 git config --global user.name "Nick Rimmer"
-git config --global user.email "nick.rimmer.2009@gmail.com"
-cd /Projects
+git config --global user.email ""
+cd /projects
 git clone https://github.com/Nick-Rimmer2016/Bash.git
+echo "Deployment Completed"
