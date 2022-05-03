@@ -8,7 +8,7 @@ Create a SSH key pair
 Upload public key to Linode `MyProfile\SSH Keys`   
 Create an [API token](https://www.linode.com/docs/guides/api-key/) for Linode, select Linodes only for Read\Write   
 
-![Creating An API Token](images/pat.gif)
+![Creating An API Token](images/pat.GIF)
 
 **Operating System**   
 Ubuntu v20.04   
