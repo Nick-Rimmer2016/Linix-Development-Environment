@@ -4,6 +4,7 @@ Build an Ubuntu Linux server with Powershell and configure Git, this project wil
 **Pre-Requisites**   
 Create An Account with Linode:  https://www.linode.com/    
 (Servers start at $5 a month !!)   
+![Linode $100 Free Sign Up](images/linode.jpg)
 Create a SSH key pair   
 Upload public key to Linode `MyProfile\SSH Keys`   
 Create an [API token](https://www.linode.com/docs/guides/api-key/) for Linode, select Linodes only for Read\Write   
