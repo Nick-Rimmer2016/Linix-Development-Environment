@@ -17,6 +17,11 @@ sudo apt-get install -y powershell
 sudo mkdir \projects
 git config --global user.name "Nick Rimmer"
 git config --global user.email ""
+<<<<<<< HEAD
 cd /projects
 git clone https://github.com/Nick-Rimmer2016/Bash.git
 echo "Deployment Completed"
+=======
+cd /Projects
+git clone https://github.com/Nick-Rimmer2016/Bash.git
+>>>>>>> 21f07add7801c3940a1356e94765422b58236d0e
