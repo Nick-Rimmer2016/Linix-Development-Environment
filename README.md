@@ -15,7 +15,7 @@ Build an Ubuntu Linux server with Powershell and configure Git, this project wil
 
 * Place linode.yml in .github\workflows   
 * Copy the contents of apps.sh and import into StackScripts in Linode, take a note of the id number for the script.   
-  ![Copy apps.sh to StackScript](images/stack.GIF)   
+  ![Copy apps.sh to StackScript](images/stack.gif)   
   This script will execute once the linux server is built.   
 * Edit the `linode.sh` script and the id for the stackscript.   
   ![Edit bash script and add the id for the StackScript](images/stackscript.gif)   
