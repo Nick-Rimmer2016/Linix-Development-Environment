@@ -19,7 +19,7 @@ Build an Ubuntu Linux server with Powershell and configure Git, this project wil
 
   ![Copy apps.sh to StackScript](images/stack.gif)   
   This script will execute once the linux server is built.   
-* Edit the `linode.sh` script and the id for the stackscript.   
+* Edit the `linode.sh` script and the id for the stackscript and add your public key in OpenSSH format.     
 
   ![Edit bash script and add the id for the StackScript](images/stackscript.gif)   
 * Add the secrets to your repository to be used for root password and the API Token. (root password is a password of your choice)   
