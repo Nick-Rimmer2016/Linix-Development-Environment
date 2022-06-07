@@ -7,7 +7,7 @@ env:
   PASS:   ${{ secrets.PASS }}
 
 jobs:
-  job1:
+  DeployLinode:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Source Code
