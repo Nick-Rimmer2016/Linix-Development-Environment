@@ -3,8 +3,6 @@
 TOKEN=$1
 PASS=$2
 
-echo $PASS
-
 curl -k -H "Content-Type: application/json" \
      -H "Authorization: Bearer $TOKEN" \
      -X POST -d '{
