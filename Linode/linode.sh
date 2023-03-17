@@ -10,7 +10,7 @@ curl -k -H "Content-Type: application/json" \
       "root_pass": "'"${PASS}"'",
       "booted": true,
       "label": "UBULAB_SERVER",
-      "type": "g6-nanode-1",
+      "type": "g6-standard-2",
       "region": "eu-west",
       "stackscript_id": 1003346,
       "authorized_keys": [
